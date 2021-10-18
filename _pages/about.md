@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student in linguistics at the University of Washington.
+I'm a Doctoral Candidate in linguistics at the University of Washington.
 My research interests are mainly in phonetics and sociolinguistics, and how we can use what we know from both of these fields to improve second language teaching and learning.
-I work as a research assistant on the <a href="https://zeos.ling.washington.edu/PNWEnglish/">Pacific Northwest English Project</a>, directed by Alicia Beckford Wassink. I am a member of both the <a href="https://depts.washington.edu/phonlab/">UW Phonetics Lab</a> and the <a href="https://depts.washington.edu/sociolab/index.php">UW Sociolinguistics Lab.</a> I maintain <a href="https://clox.ling.washington.edu/">CLOx</a>, a web app designed to help linguists easily transcribe recorded interviews.
+</a> I maintain <a href="https://clox.ling.washington.edu/">CLOx</a>, a web app designed to help linguists easily transcribe recorded interviews. I am a member of both the <a href="https://depts.washington.edu/phonlab/">UW Phonetics Lab</a> and the <a href="https://depts.washington.edu/sociolab/index.php">UW Sociolinguistics Lab. I have worked as a research assistant on the <a href="https://zeos.ling.washington.edu/PNWEnglish/">Pacific Northwest English Project</a>, directed by Alicia Beckford Wassink.
