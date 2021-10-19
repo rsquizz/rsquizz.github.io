@@ -2,10 +2,20 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
-Under construction
+Sociolinguistic and Phonetic Perception of L2 Mandarin
+
+Collecting and using race and ethnicity information in linguistic studies
+
+CLOx Transcription
+
+Improving the quality of dynamic acoustic measurements
+
+Ultrasound Tongue Imaging
+
+Details for each project forthcoming!
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
