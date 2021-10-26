@@ -7,7 +7,7 @@ author_profile: true
 
 ### Vowels and consonants in second language Mandarin Chinese
 
-For first-language (L1) speakers of non-tone languages, learning the four tones that distinguish words in Mandarin Chinese is often the hardest part of its pronunciation, if not the hardest part of learning the language itself. This may be the reason why the vast majority of existing research on acquisition of second language (L2) Mandarin pronunciation has focused on tone. Pronunciation of vowels and consonants, however, is highly important for communication, even in tonal languages. This study investigates differences in the production and perception of Mandarin vowels and consonants between L1 Mandarin speakers and L2 Mandarin speakers with English as their L1. 
+For first-language (L1) speakers of non-tone languages, learning the four tones that distinguish words in Mandarin Chinese is often the hardest part of its pronunciation, if not the hardest part of learning the language itself. This may be the reason why the majority of existing research on acquisition of second language (L2) Mandarin pronunciation has focused on tone. Pronunciation of vowels and consonants, however, is highly important for communication, even in tonal languages. This study investigates differences in the production and perception of Mandarin vowels and consonants between L1 Mandarin speakers and L2 Mandarin speakers with English as their L1. 
 
 ### Perceived ethnicity, gender, and attitudes towards second language Mandarin speakers
 
