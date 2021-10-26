@@ -23,7 +23,7 @@ Phoneticians measure formants, or acoustic resonances of the vocal tract, as one
 
 ### Ethnic minorities’ participation in a Pacific Northwest English sound change: An articulatory and acoustic investigation
 
-This is a sociolinguistically-informed phonetic study of a loss of contrast between vowels before /l/ in the varieties of English spoken in Washington State. Ultrasound imaging is used to investigate the timing and magnitude of tongue gestures and their effects on the acoustics of speech. The study samples from African American, Mexican American, and Yakama (Native American) populations, ethnic groups that are minorities in Washington State and traditionally underrepresented in linguistic studies.
+This is a sociolinguistically-informed phonetic study of words with certain vowels before /l/ in the varieties of English spoken in Washington State. Some Washington English speakers do not differentiate certain words that speakers differentiate in other parts of the United States. Ultrasound imaging is used to investigate the timing and magnitude of tongue gestures and their effects on the acoustics of speech. The study samples from African American, Mexican American, and Yakama populations, ethnic groups that are minorities in Washington State and traditionally underrepresented in linguistic studies.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
