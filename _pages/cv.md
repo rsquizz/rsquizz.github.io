@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href = "https://rsquizz.github.io/files/CV_Squizzero_Industry.pdf">Download full CV</a>
+<a href = "https://rsquizz.github.io/files/CV_Squizzero_Industry.pdf">Download full CV</a> (last updated 10/26/2021)
 
 <!-- Education
 ======
