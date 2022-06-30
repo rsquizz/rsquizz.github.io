@@ -5,13 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
+### Perceived ethnicity, gender, and attitudes towards second language Mandarin speakers
+
+Research has shown that when a listener believes that a second language (L2) speaker is a member of a different ethnic group from the listener, sometimes the listener will perceive that speaker to be more accented or of inferior character than a L2 speaker of the listener’s ethnic group. Most existing research demonstrating this has been done on majority languages of North American and European countries, raising questions about the generalizability of the research. In a pair of studies, ethnically Chinese first-language Mandarin listeners rated the personalities and language abilities of highly proficient L2 Mandarin speakers of Chinese and non-Chinese ethnicity. Results show an effect of ethnic ingroup favoritism on several personality traits but no difference in perceived language proficiency. Results also indicate that this effect is more pronounced for men listening to female voices, raising questions about the mechanisms underlying the effect.
+
+
 ### Vowels and consonants in second language Mandarin Chinese
 
 For first-language (L1) speakers of non-tone languages, learning the four tones that distinguish words in Mandarin Chinese is often the hardest part of its pronunciation, if not the hardest part of learning the language itself. This may be the reason why the majority of existing research on acquisition of second language (L2) Mandarin pronunciation has focused on tone. Pronunciation of vowels and consonants, however, is highly important for communication, even in tonal languages. This study investigates differences in the production and perception of Mandarin vowels and consonants between L1 Mandarin speakers and L2 Mandarin speakers with English as their L1. 
 
-### Perceived ethnicity, gender, and attitudes towards second language Mandarin speakers
-
-Research has shown that when a listener believes that a second language (L2) speaker is a member of a different ethnic group from the listener, sometimes the listener will perceive that speaker to be more accented or of inferior character than a L2 speaker of the listener’s ethnic group. Most existing research demonstrating this has been done on majority languages of North American and European countries, raising questions about the generalizability of the research. In a pair of studies, ethnically Chinese first-language Mandarin listeners rated the personalities and language abilities of highly proficient L2 Mandarin speakers of Chinese and non-Chinese ethnicity. Results show an effect of ethnic ingroup favoritism on several personality traits but no difference in perceived language proficiency. Results also indicate that this effect is more pronounced for men listening to female voices, raising questions about the mechanisms underlying the effect.
 
 ### CLOx transcription
 
