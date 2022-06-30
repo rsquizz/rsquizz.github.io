@@ -10,6 +10,7 @@ author_profile: true
 Research has shown that when a listener believes that a second language (L2) speaker is a member of a different ethnic group from the listener, sometimes the listener will perceive that speaker to be more accented or of inferior character than a L2 speaker of the listener’s ethnic group. Most existing research demonstrating this has been done on majority languages of North American and European countries, raising questions about the generalizability of the research. In a pair of studies, ethnically Chinese first-language Mandarin listeners rated the personalities and language abilities of highly proficient L2 Mandarin speakers of Chinese and non-Chinese ethnicity. Results show an effect of ethnic ingroup favoritism on several personality traits but no difference in perceived language proficiency. Results also indicate that this effect is more pronounced for men listening to female voices. A follow up study showed that endorsement of hostile sexist viewpoints is associated with greater ethnic ingroup favoritism. 
 
 References:
+
 Squizzero, R. (in revise and resubmit stage). Perceived ethnicity, gender, and attitudes towards L2 Mandarin speakers. Journal of Multilingual and Multicultural Development.
 
 Squizzero, R. (2020). Attitudes toward L2 Mandarin Speakers of Chinese and non-Chinese Ethnicity. Proceedings of the 32nd meeting of the North American Conference on Chinese Linguistics. (<a href="https://drive.google.com/file/d/1yiBzQjt15M4IU5gOMzMCqkZNQCiUaz0y/view?usp=sharing">link</a>)
@@ -25,6 +26,7 @@ For first-language (L1) speakers of non-tone languages, learning the four tones 
 <a href="https://clox.ling.washington.edu/#/"> CLOx </a>is a web-based service that uses Microsoft’s Speech Service API Client Libraries, previously known as Project Oxford, to orthographically transcribe sociolinguistic or other audio-recorded interviews in a format amenable to linguistic analysis. CLOx outputs transcriptions in a .csv format with timestamps indicating the start and end time of each turn of speech contained in an audiofile. It is estimated that CLOx enables accurate transcription of a sociolinguistic interview to be completed in one-fifth or less of the time it would take to produce a manual transcription. CLOx currently supports over 100 languages and language varieties. CLOx is also available as a <a href="https://apps.apple.com/us/app/clox-transcription/id1523222131"> desktop application for macOS.</a> (with Alicia Beckford Wassink, Campion Fellin, and David Nichols)
 
 Reference:
+
 Wassink, A.B., Squizzero, R., Fellin, C. & Nichols, D. (2018, October). CLOx: Time-saving automated orthographic transcription tool for sociolinguistic interviews. Workshop given at New Ways of Analyzing Variation 47, New York, NY.
 
 ### Improving the quality of dynamic acoustic measurements
