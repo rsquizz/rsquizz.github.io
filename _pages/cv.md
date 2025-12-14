@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href = "https://rsquizz.github.io/files/CV_Squizzero_Industry.pdf">View full CV</a> (last updated 6/28/2022)
+CV is currently being updated
 
 <!-- Education
 ======
